@@ -22,7 +22,7 @@ Hello! I’m **Laksh Chawla** (aka _Syntax-Overlord_), a passionate and curious 
 
 ## 📫 Let’s Connect
 
-- LinkedIn: [in/laksh-chawla-dev](https://www.linkedin.com/in/laksh-chawla-dev/)
+- LinkedIn: [in/laksh-chawla-dev](https://www.linkedin.com/in/L-C-dev/)
 - E-Mail: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laksh.dev.2997@gmail.com)
 - Feel free to open an issue or PR in any repo, drop me a message, or just say “hi.”
 - I’m always open to collaboration, mentorship, or just exchanging ideas.
